@@ -1,0 +1,10 @@
+
+var name = 'Karthik'
+var age = 23;
+
+object includes properties and methods which is assigned by the literal values.
+
+two types of object:
+    1. Object literal
+    2. Object Constructor
+
